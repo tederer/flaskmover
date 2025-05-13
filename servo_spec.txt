@@ -1,0 +1,8 @@
+
+20ms => 50Hz
+
+pulse length: 900µs - 2100µs
+
+left   = 900µs
+center = 1500µs
+right  = 2100µs

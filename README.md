@@ -2,6 +2,10 @@
 
 This repository contains the code for an ESP32 microcontroller to periodically move a platform containing in vitro cultures.
 
+## Schematic
+
+![schematic](schematic.png)
+
 ## Preconditions
 
 To build this project a development environment is necessary to compile the code. You can build a [docker image](https://github.com/tederer/esp32dev) containing the environment.
